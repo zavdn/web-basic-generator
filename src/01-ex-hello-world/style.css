@@ -1,0 +1,13 @@
+h1 {
+  color: red
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (min-width: 500px) {
+  h1 {
+    color: teal
+  }
+}
